@@ -1,0 +1,19 @@
+﻿ProductID,ProductName,Category,UnitPrice
+101,Laptop,Electronics,57500
+102,Smartphone,Electronics,32400
+103,Headphone,Electronics,2800
+104,Smart Watch,Electronics,6500
+105,Tablet,Electronics,22000
+106,T-Shirt,Fashion,850
+107,Shoes,Fashion,3200
+108,Bag,Fashion,1800
+109,Jacket,Fashion,4500
+110,Home Decor,Home & Living,2100
+111,Blender,Home & Living,4200
+112,Chair,Home & Living,5500
+113,Face Cream,Beauty & Health,950
+114,Perfume,Beauty & Health,2600
+115,Football,Sports,1200
+116,Yoga Mat,Sports,900
+117,Notebook,Others,120
+118,Water Bottle,Others,450
